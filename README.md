@@ -1,4 +1,4 @@
-# Hi, I'm Saneeth Sunkari 👋
+# Hi, I'm Saneeth Sunkari 
 
 **Data Engineer** focused on healthcare data platforms, Azure Databricks / Microsoft Fabric lakehouses, and production-grade data quality.
 
